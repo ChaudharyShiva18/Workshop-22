@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://test:test123@cluster0.f1u7a.mongodb.net/users",
+    "secret": "SUPER_SECRET_LINE"
+}
